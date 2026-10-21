@@ -24,3 +24,4 @@ Homestead.yaml
 Thumbs.db
 /storage/app/Data_urut_penukaran_kopi.xlsx
 /storage/app/teman_ti.xlsx
+/bootstrap/cache/*.php
