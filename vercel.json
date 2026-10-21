@@ -18,5 +18,6 @@
         "CACHE_DRIVER": "array",
         "SESSION_DRIVER": "cookie",
         "LOG_CHANNEL": "stderr"
+        
     }
 }
